@@ -1,1 +1,1 @@
-# near-contracts
+# ChainScore contracts for NEAR (rust)
